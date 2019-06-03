@@ -5,5 +5,6 @@ We have created this website for Artivatic Data Labs, in order to apply for an I
 All Rights Reserved, By ARTIVATIC DATA LABS PVT LTD. 2019
 
 # Sources Used
->  <a href="material.io"> Material Design </a>
+>  <a href="https://www.material.io"> Material Design </a>
+<br>
 >  <a href="https://github.com/alexfoxy/laxxx"> Laxxx.js </a>
