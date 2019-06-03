@@ -9,9 +9,17 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
     <link rel="stylesheet" href="css/main.css">
     <script src="https://cdn.jsdelivr.net/npm/lax.js">
-    
+    window.onload = function() {
+    lax.setup() // init
+
+    const updateLax = () => {
+        lax.update(window.scrollY)
+        window.requestAnimationFrame(updateLax)
+    }
+
+    window.requestAnimationFrame(updateLax)
+}
     </script>
-    <script src="main.js"></script>
     <title>Artivatic AI</title>
 </head>
 
