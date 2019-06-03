@@ -1,0 +1,48 @@
+html body {
+  background: #121212;
+}
+
+html body img {
+  width: 150px;
+}
+
+html body h1, html body p {
+  color: #fff;
+}
+
+html body caption {
+  color: #fff;
+}
+
+html body .mdc-button {
+  color: #fff;
+}
+
+html body .er {
+  width: 100%;
+}
+
+html body .mdc-card {
+  background: #1f1a24;
+  height: 100%;
+  width: 100%;
+  padding: 1em;
+  background-size: 10%;
+}
+
+html body .me {
+  background: #1f1a24;
+  height: 100%;
+  width: 100%;
+  padding: 5em;
+}
+
+html body a {
+  text-decoration: none;
+}
+
+html footer {
+  background: #5ED7BB;
+  height: 10vh;
+}
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,40 @@
+html{
+    body{
+        background: #121212;
+        img{
+            width: 150px;
+        }
+        h1,p{
+            color:#fff;
+        }
+        caption{
+            color:#fff;
+        }
+        .mdc-button{
+            color: #fff;
+        }
+        .er{
+            width: 100%;
+        }
+        .mdc-card{
+            background: #1f1a24;
+            height: 100%;
+            width: 100%;
+            padding: 1em;
+            background-size: 10%;
+        }
+        .me{
+            background: #1f1a24;
+            height: 100%;
+            width: 100%;
+            padding: 5em;
+        }
+        a{
+            text-decoration: none;
+        }
+    }
+    footer{
+        background: #5ED7BB;
+        height: 10vh;
+    }
+}
